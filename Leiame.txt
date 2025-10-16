@@ -1,0 +1,5 @@
+Primeiro, você precisa instalar as bibliotecas necessárias. 
+Abra seu terminal ou prompt de comando e execute o seguinte:
+pipx install markdown
+pipx install tk
+pipx install idlelib
